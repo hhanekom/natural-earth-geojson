@@ -4,3 +4,5 @@ ne\_10m\_admin\_1\_states\_provinces\_lakes : has large border-crossing lakes pu
 
 ne\_10m\_admin\_1\_states\_provinces\_lakes\_simplified :  was simplified 50% in mapshaper
 
+ne\_10m\_admin\_1\_states\_provinces\_lakes\_optimized :  only large landmasses were simplified 50% in mapshaper
+
